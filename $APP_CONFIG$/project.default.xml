@@ -1,0 +1,21 @@
+<application>
+  <component name="ProjectManager">
+    <defaultProject>
+      <component name="MavenImportPreferences">
+        <option name="generalSettings">
+          <MavenGeneralSettings>
+            <option name="localRepository" value="D:\workspace\server\maven\repository" />
+            <option name="mavenHome" value="D:\ZhaoZhe\Maven\apache-maven-3.8.3" />
+            <option name="userSettingsFile" value="D:\workspace\server\maven\settings.xml" />
+          </MavenGeneralSettings>
+        </option>
+      </component>
+      <component name="PropertiesComponent">
+        <property name="settings.editor.selected.configurable" value="configurable.group.editor" />
+      </component>
+      <component name="SvnConfiguration">
+        <configuration>C:\Users\user\AppData\Roaming\Subversion</configuration>
+      </component>
+    </defaultProject>
+  </component>
+</application>
