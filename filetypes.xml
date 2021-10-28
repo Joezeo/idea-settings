@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="18">
     <extensionMap>
       <mapping pattern="/.idea" type="IgnoreLang file" />
+      <mapping pattern="/target" type="IgnoreLang file" />
       <mapping ext="jar" type="IgnoreLang file" />
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="main.kts" type="Kotlin" />
@@ -9,6 +10,7 @@
       <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
       <removed_mapping ext="jar" approved="true" type="ARCHIVE" />
       <removed_mapping ext="psd" approved="true" type="Image" />
+      <removed_mapping pattern="/.target" approved="true" type="IgnoreLang file" />
     </extensionMap>
   </component>
 </application>
