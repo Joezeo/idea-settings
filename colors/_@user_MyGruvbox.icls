@@ -4,7 +4,7 @@
     <property name="created">2021-10-26T13:59:46</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2020.3.4.0.0</property>
-    <property name="modified">2021-10-26T23:59:35</property>
+    <property name="modified">2021-10-28T15:33:24</property>
     <property name="originalScheme">MyGruvbox</property>
   </metaInfo>
   <option name="CONSOLE_FONT_NAME" value="JetBrains Mono" />
@@ -210,7 +210,7 @@
       <value>
         <option name="FOREGROUND" value="83a598" />
         <option name="EFFECT_COLOR" value="83a598" />
-        <option name="EFFECT_TYPE" value="1" />
+        <option name="EFFECT_TYPE" value="-1" />
       </value>
     </option>
     <option name="CUSTOM_INVALID_STRING_ESCAPE_ATTRIBUTES">
@@ -961,7 +961,7 @@
     </option>
     <option name="TODO_DEFAULT_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="d3869b" />
+        <option name="FOREGROUND" value="ff6b6b" />
         <option name="FONT_TYPE" value="2" />
         <option name="ERROR_STRIPE_COLOR" value="a74c0" />
       </value>
