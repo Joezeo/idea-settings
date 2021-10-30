@@ -1,15 +1,15 @@
 <application>
-  <component name="FileTypeManager" version="18">
+  <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="main.kts" type="Kotlin" />
       <mapping pattern=".ideavimrc" type="PLAIN_TEXT" />
-      <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
-      <removed_mapping ext="jar" approved="true" type="IgnoreLang file" />
       <removed_mapping ext="psd" approved="true" type="Image" />
-      <removed_mapping pattern="/.idea" approved="true" type="IgnoreLang file" />
-      <removed_mapping pattern="/.target" approved="true" type="IgnoreLang file" />
       <removed_mapping pattern="/target" approved="true" type="IgnoreLang file" />
+      <removed_mapping pattern="/.target" approved="true" type="IgnoreLang file" />
+      <removed_mapping ext="jar" approved="true" type="IgnoreLang file" />
+      <removed_mapping pattern="/.idea" approved="true" type="IgnoreLang file" />
+      <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
     </extensionMap>
   </component>
 </application>
