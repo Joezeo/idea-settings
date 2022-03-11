@@ -1,0 +1,36 @@
+<application>
+  <component name="libraryTable">
+    <library name="hibernate">
+      <CLASSES>
+        <root url="file://D:/workspace/project/U8Server/lib/jars/hibernate" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES />
+      <jarDirectory url="file://D:/workspace/project/U8Server/lib/jars/hibernate" recursive="false" />
+    </library>
+    <library name="sdk">
+      <CLASSES>
+        <root url="file://D:/workspace/project/U8Server/lib/jars/sdk" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES />
+      <jarDirectory url="file://D:/workspace/project/U8Server/lib/jars/sdk" recursive="false" />
+    </library>
+    <library name="spring">
+      <CLASSES>
+        <root url="file://D:/workspace/project/U8Server/lib/jars/spring" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES />
+      <jarDirectory url="file://D:/workspace/project/U8Server/lib/jars/spring" recursive="false" />
+    </library>
+    <library name="struts2">
+      <CLASSES>
+        <root url="file://D:/workspace/project/U8Server/lib/jars/struts2" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES />
+      <jarDirectory url="file://D:/workspace/project/U8Server/lib/jars/struts2" recursive="false" />
+    </library>
+  </component>
+</application>

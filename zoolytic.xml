@@ -1,0 +1,10 @@
+<application>
+  <component name="Zoolytic">
+    <option name="clusters">
+      <list>
+        <option value="100.0.31.221:2181" />
+        <option value="100.0.31.128:2181" />
+      </list>
+    </option>
+  </component>
+</application>
