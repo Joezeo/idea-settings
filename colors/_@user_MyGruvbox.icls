@@ -4,7 +4,7 @@
     <property name="created">2021-10-26T13:59:46</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2020.3.4.0.0</property>
-    <property name="modified">2022-03-12T14:54:43</property>
+    <property name="modified">2022-03-12T15:08:23</property>
     <property name="originalScheme">MyGruvbox</property>
   </metaInfo>
   <console-font>
@@ -516,8 +516,8 @@
     </option>
     <option name="ERRORS_ATTRIBUTES">
       <value>
-        <option name="EFFECT_COLOR" value="fb4934" />
-        <option name="ERROR_STRIPE_COLOR" value="fb4934" />
+        <option name="EFFECT_COLOR" value="ff6e69" />
+        <option name="ERROR_STRIPE_COLOR" value="ff6e69" />
         <option name="EFFECT_TYPE" value="2" />
       </value>
     </option>
@@ -960,7 +960,7 @@
     </option>
     <option name="TODO_DEFAULT_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="d3869b" />
+        <option name="FOREGROUND" value="f6b748" />
         <option name="FONT_TYPE" value="2" />
         <option name="ERROR_STRIPE_COLOR" value="a74c0" />
       </value>
@@ -1010,8 +1010,8 @@
     </option>
     <option name="WRONG_REFERENCES_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="fb4934" />
-        <option name="EFFECT_COLOR" value="fb4934" />
+        <option name="FOREGROUND" value="ff6e69" />
+        <option name="EFFECT_COLOR" value="ff6e69" />
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
