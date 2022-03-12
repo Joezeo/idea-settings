@@ -4,10 +4,17 @@
     <property name="created">2021-10-26T13:59:46</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2020.3.4.0.0</property>
-    <property name="modified">2021-10-28T15:33:24</property>
+    <property name="modified">2022-03-12T14:54:43</property>
     <property name="originalScheme">MyGruvbox</property>
   </metaInfo>
-  <option name="CONSOLE_FONT_NAME" value="JetBrains Mono" />
+  <console-font>
+    <option name="EDITOR_FONT_NAME" value="Menlo" />
+    <option name="EDITOR_FONT_SIZE" value="12" />
+  </console-font>
+  <console-font>
+    <option name="EDITOR_FONT_NAME" value="Hack" />
+    <option name="EDITOR_FONT_SIZE" value="12" />
+  </console-font>
   <option name="CONSOLE_LINE_SPACING" value="1.1" />
   <colors>
     <option name="ADDED_LINES_COLOR" value="79740e" />
@@ -19,15 +26,17 @@
     <option name="INDENT_GUIDE" value="665c54" />
     <option name="INFORMATION_HINT" value="458588" />
     <option name="LINE_NUMBERS_COLOR" value="928374" />
+    <option name="LOOKUP_COLOR" value="2b2828" />
     <option name="METHOD_SEPARATORS_COLOR" value="2a2a2a" />
     <option name="MODIFIED_LINES_COLOR" value="415f69" />
+    <option name="PROMOTION_PANE" value="33657b" />
     <option name="RECENT_LOCATIONS_SELECTION" value="83a598" />
     <option name="RIGHT_MARGIN_COLOR" value="3c3836" />
     <option name="SELECTED_INDENT_GUIDE" value="f8e1aa" />
     <option name="SELECTED_TEARLINE_COLOR" value="8ec07c" />
     <option name="SELECTION_BACKGROUND" value="665c54" />
     <option name="TEARLINE_COLOR" value="665c54" />
-    <option name="TOOLTIP" value="3c3f41" />
+    <option name="TOOLTIP" value="2b2626" />
   </colors>
   <attributes>
     <option name="ABSTRACT_CLASS_NAME_ATTRIBUTES">
@@ -131,7 +140,7 @@
     </option>
     <option name="CONSOLE_ERROR_OUTPUT">
       <value>
-        <option name="FOREGROUND" value="ff7d75" />
+        <option name="FOREGROUND" value="cc241d" />
       </value>
     </option>
     <option name="CONSOLE_GRAY_OUTPUT">
@@ -177,7 +186,7 @@
     </option>
     <option name="CONSOLE_SYSTEM_OUTPUT">
       <value>
-        <option name="FOREGROUND" value="ffcd70" />
+        <option name="FOREGROUND" value="fabd2f" />
       </value>
     </option>
     <option name="CONSOLE_USER_INPUT">
@@ -210,7 +219,7 @@
       <value>
         <option name="FOREGROUND" value="83a598" />
         <option name="EFFECT_COLOR" value="83a598" />
-        <option name="EFFECT_TYPE" value="-1" />
+        <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
     <option name="CUSTOM_INVALID_STRING_ESCAPE_ATTRIBUTES">
@@ -507,8 +516,8 @@
     </option>
     <option name="ERRORS_ATTRIBUTES">
       <value>
-        <option name="EFFECT_COLOR" value="e05542" />
-        <option name="ERROR_STRIPE_COLOR" value="cf4c3d" />
+        <option name="EFFECT_COLOR" value="fb4934" />
+        <option name="ERROR_STRIPE_COLOR" value="fb4934" />
         <option name="EFFECT_TYPE" value="2" />
       </value>
     </option>
@@ -632,29 +641,19 @@
       </value>
     </option>
     <option name="LESS_VARIABLE" baseAttributes="DEFAULT_INSTANCE_FIELD" />
-    <option name="LOG_DEBUG_OUTPUT">
-      <value>
-        <option name="FOREGROUND" value="48d6d6" />
-      </value>
-    </option>
     <option name="LOG_ERROR_OUTPUT">
       <value>
-        <option name="FOREGROUND" value="ff6859" />
+        <option name="FOREGROUND" value="fb4934" />
       </value>
     </option>
     <option name="LOG_EXPIRED_ENTRY">
       <value>
-        <option name="FOREGROUND" value="f65a5a" />
-      </value>
-    </option>
-    <option name="LOG_INFO_OUTPUT">
-      <value>
-        <option name="FOREGROUND" value="9bd648" />
+        <option name="FOREGROUND" value="928374" />
       </value>
     </option>
     <option name="LOG_WARNING_OUTPUT">
       <value>
-        <option name="FOREGROUND" value="ffc341" />
+        <option name="FOREGROUND" value="fabd2f" />
       </value>
     </option>
     <option name="List/map to object conversion" baseAttributes="JAVA_NUMBER" />
@@ -961,7 +960,7 @@
     </option>
     <option name="TODO_DEFAULT_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="ff6b6b" />
+        <option name="FOREGROUND" value="d3869b" />
         <option name="FONT_TYPE" value="2" />
         <option name="ERROR_STRIPE_COLOR" value="a74c0" />
       </value>
@@ -1011,8 +1010,8 @@
     </option>
     <option name="WRONG_REFERENCES_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="ff705f" />
-        <option name="EFFECT_COLOR" value="ff7c65" />
+        <option name="FOREGROUND" value="fb4934" />
+        <option name="EFFECT_COLOR" value="fb4934" />
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
