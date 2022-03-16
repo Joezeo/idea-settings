@@ -1,0 +1,120 @@
+<application>
+  <component name="PluginAdvertiserExtensions">
+    <option name="localState">
+      <map>
+        <entry key="additional-spring-configuration-metadata.json">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="dev.eltonsandre.intellij.spring.assistant.plugin" />
+              <option name="myPluginName" value="Spring Initializr and Assistant" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="application*.properties">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="dev.eltonsandre.intellij.spring.assistant.plugin" />
+              <option name="myPluginName" value="Spring Initializr and Assistant" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="application*.yaml">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="dev.eltonsandre.intellij.spring.assistant.plugin" />
+              <option name="myPluginName" value="Spring Initializr and Assistant" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="application*.yml">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="dev.eltonsandre.intellij.spring.assistant.plugin" />
+              <option name="myPluginName" value="Spring Initializr and Assistant" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="application.properties">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="dev.eltonsandre.intellij.spring.assistant.plugin" />
+              <option name="myPluginName" value="Spring Initializr and Assistant" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="application.yaml">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="dev.eltonsandre.intellij.spring.assistant.plugin" />
+              <option name="myPluginName" value="Spring Initializr and Assistant" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="application.yml">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="dev.eltonsandre.intellij.spring.assistant.plugin" />
+              <option name="myPluginName" value="Spring Initializr and Assistant" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="bootstrap*.properties">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="dev.eltonsandre.intellij.spring.assistant.plugin" />
+              <option name="myPluginName" value="Spring Initializr and Assistant" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="bootstrap*.yaml">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="dev.eltonsandre.intellij.spring.assistant.plugin" />
+              <option name="myPluginName" value="Spring Initializr and Assistant" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="bootstrap*.yml">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="dev.eltonsandre.intellij.spring.assistant.plugin" />
+              <option name="myPluginName" value="Spring Initializr and Assistant" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="bootstrap.properties">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="dev.eltonsandre.intellij.spring.assistant.plugin" />
+              <option name="myPluginName" value="Spring Initializr and Assistant" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="bootstrap.yaml">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="dev.eltonsandre.intellij.spring.assistant.plugin" />
+              <option name="myPluginName" value="Spring Initializr and Assistant" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="bootstrap.yml">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="dev.eltonsandre.intellij.spring.assistant.plugin" />
+              <option name="myPluginName" value="Spring Initializr and Assistant" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="spring-configuration-metadata.json">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="dev.eltonsandre.intellij.spring.assistant.plugin" />
+              <option name="myPluginName" value="Spring Initializr and Assistant" />
+            </plugin>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</application>
