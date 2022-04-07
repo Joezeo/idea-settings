@@ -4,6 +4,7 @@
       <list>
         <option value="100.0.31.221:2181" />
         <option value="100.0.31.128:2181" />
+        <option value="172.16.30.13:2181" />
       </list>
     </option>
   </component>
