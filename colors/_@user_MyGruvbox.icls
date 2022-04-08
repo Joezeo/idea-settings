@@ -4,7 +4,7 @@
     <property name="created">2021-10-26T13:59:46</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2020.3.4.0.0</property>
-    <property name="modified">2022-03-12T15:08:23</property>
+    <property name="modified">2022-04-08T14:00:00</property>
     <property name="originalScheme">MyGruvbox</property>
   </metaInfo>
   <console-font>
@@ -140,7 +140,7 @@
     </option>
     <option name="CONSOLE_ERROR_OUTPUT">
       <value>
-        <option name="FOREGROUND" value="cc241d" />
+        <option name="FOREGROUND" value="fb4934" />
       </value>
     </option>
     <option name="CONSOLE_GRAY_OUTPUT">
@@ -648,7 +648,7 @@
     </option>
     <option name="LOG_EXPIRED_ENTRY">
       <value>
-        <option name="FOREGROUND" value="928374" />
+        <option name="FOREGROUND" value="fb4934" />
       </value>
     </option>
     <option name="LOG_WARNING_OUTPUT">
