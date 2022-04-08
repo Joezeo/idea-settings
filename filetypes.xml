@@ -7,7 +7,6 @@
       <mapping ext="main.kts" type="Kotlin" />
       <mapping pattern=".ideavimrc" type="PLAIN_TEXT" />
       <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
-      <removed_mapping ext="cmd" approved="true" type="Cmd" />
       <removed_mapping ext="jar" approved="true" type="IgnoreLang file" />
       <removed_mapping ext="psd" approved="true" type="Image" />
       <removed_mapping pattern="/.idea" approved="true" type="IgnoreLang file" />
