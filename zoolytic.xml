@@ -3,6 +3,7 @@
     <option name="clusters">
       <list>
         <option value="172.16.30.28:2191" />
+        <option value="172.16.30.10:2181" />
       </list>
     </option>
   </component>
